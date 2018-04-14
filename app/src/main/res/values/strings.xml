@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TreasureHunt</string>
+    <string name="Instructions1">-There will be 8 Clues in all\n</string>
+    <string name="Instructions2">-Upon entering The correct code the next clue will be unlocked\n</string>
+    <string name="Instructions3">-You have to complete it by 1 hrs 15 mins\n</string>
+    <string name="Instructions4">-After 1 hrs 15 mins the team with maximum number of correct codes will be the winner\n</string>
+    <string name="Instructions5">Enter &#8220;START&#8221; to start the hunt</string>
+
+</resources>
